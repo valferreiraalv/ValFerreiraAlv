@@ -19,3 +19,7 @@
   <a href = "mailto:valeria.alvferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/vallferre" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
  </div> 
+
+Graduada em Biblioteconomia, Ciência da Informação e da Documentação
+Estudando Ciência de Dados
+Apaixonada pela área de dados com objetivo de ampliar meu aprendizado para gerar valor aos processos de negócios.
