@@ -20,8 +20,9 @@
   <a href="https://twitter.com/vallferre" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
  </div> 
 
-<div> 
-  <a Graduada em Biblioteconomia, Ciência da Informação e da Documentação></a>
-  <a Estudando Ciência de Dados></a>
-  <a Apaixonada pela área de dados com objetivo de ampliar meu aprendizado para gerar valor aos processos de negócios></a>
- </div>
+ 
+  Graduada em Biblioteconomia, Ciência da Informação e da Documentação
+  
+  Estudando Ciência de Dados
+  
+  Apaixonada pela área de dados com objetivo de ampliar meu aprendizado para gerar valor aos processos de negócios
