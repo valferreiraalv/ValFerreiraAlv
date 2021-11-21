@@ -26,3 +26,11 @@
   - Estudando Ciência de Dados
   - Apaixonada pela área de dados com objetivo de ampliar meu aprendizado para gerar valor aos processos de negócios
  
+### Ferramentas Analíticas
+  
+- Coleta e armazenamento de dados: SQL, MySQL e Big Query
+- Processamento e análise de dados: Python
+- Desenvolvimento: Git, Scrum, Jenkins e Docker 
+- Visualização de dados: Power B.I., Google Data Studio e Tableau
+- Modelos Machine Learning: Classification
+- Implementação Machine Learning: Heroku, Google Cloud Platform (GCP) 
