@@ -27,7 +27,7 @@
   - Apaixonada pela área de dados com objetivo de ampliar meu aprendizado para gerar valor aos processos de negócios
   
   ### Cursos
-  - [Curso Python Zero ao Zero](https://github.com/valferreiraalv/house_rocket)
+  - [Curso Python Zero ao DS](https://github.com/valferreiraalv/house_rocket)
  
 ### Ferramentas Analíticas
   
