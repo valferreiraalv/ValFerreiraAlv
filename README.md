@@ -25,6 +25,9 @@
   - Graduada em Biblioteconomia, Ciência da Informação e da Documentação
   - Estudando Ciência de Dados
   - Apaixonada pela área de dados com objetivo de ampliar meu aprendizado para gerar valor aos processos de negócios
+  
+  ### Cursos
+  - [Curso Python Zero ao Zero](https://github.com/valferreiraalv/house_rocket)
  
 ### Ferramentas Analíticas
   
