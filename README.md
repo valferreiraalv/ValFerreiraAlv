@@ -28,6 +28,7 @@
   
   ### Cursos
   - [Curso Python Zero ao DS](https://github.com/valferreiraalv/house_rocket)
+  
  
 ### Ferramentas Analíticas
   
