@@ -27,7 +27,7 @@
   - Apaixonada pela área de dados com objetivo de ampliar meu aprendizado para gerar valor aos processos de negócios
   
   ### Projetos
-  - [Acidentes de Trânsito](https://github.com/valferreiraalv/acidentes-transito)
+  - [Acidentes de Trânsito](https://github.com/valferreiraalv/acidentes-transito)[Completo ✔️]
   
   ### Cursos
   - [Curso Python Zero ao DS](https://github.com/valferreiraalv/house_rocket)
