@@ -31,6 +31,7 @@
   
   ### Cursos
   - [Curso Python Zero ao DS](https://github.com/valferreiraalv/house_rocket)
+  - [Data Analytics Olist Store](https://github.com/valferreiraalv/data_analytics_olist_store)
   
  
 ### Ferramentas Analíticas
