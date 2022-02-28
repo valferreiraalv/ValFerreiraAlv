@@ -27,11 +27,11 @@
   - Apaixonada pela área de dados com objetivo de ampliar meu aprendizado para gerar valor aos processos de negócios
   
   ### Projetos
-  - [Acidentes de Trânsito](https://github.com/valferreiraalv/acidentes-transito)[Completo ✔️]
+  - [Acidentes de Trânsito](https://github.com/valferreiraalv/acidentes-transito) [Completo ✔️]
   
   ### Cursos
-  - [Curso Python Zero ao DS](https://github.com/valferreiraalv/house_rocket)
-  - [Data Analytics Olist Store](https://github.com/valferreiraalv/data_analytics_olist_store)
+  - [Curso Python Zero ao DS](https://github.com/valferreiraalv/house_rocket) [Completo ✔️]
+  - [Data Analytics Olist Store](https://github.com/valferreiraalv/data_analytics_olist_store) [Completo ✔️]
   
  
 ### Ferramentas Analíticas
