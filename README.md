@@ -28,6 +28,7 @@
   
   ### Projetos
   - [Acidentes de Trânsito](https://github.com/valferreiraalv/acidentes-transito) [Completo ✔️]
+  - [Rossmann Sales Predict](https://github.com/valferreiraalv/rossmann_sales_predict) [Desenvolvendo]
   
   ### Cursos
   - [Curso Python Zero ao DS](https://github.com/valferreiraalv/house_rocket) [Completo ✔️]
