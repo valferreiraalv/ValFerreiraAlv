@@ -39,16 +39,16 @@
   ### Cursos
   - [Curso Python Zero ao DS](https://github.com/valferreiraalv/house_rocket) [Completo ✔️]
     - Resolução de exercícios do curso Python Zero ao DS. 
-    - Skills: Python, Pandas, Visualização e Análise de Dados, Streamlit, HerokuApp, Heroku Deployment.
+    - <b>Skills:</b> Python, Pandas, Visualização e Análise de Dados, Streamlit, HerokuApp, Heroku Deployment.
   - [Data Analytics Olist Store](https://github.com/valferreiraalv/data_analytics_olist_store) [Completo ✔️]
     - Aplicação de queries por meio da ferramenta SQLite3 para entender a dinâmica das transações da Olist Store utilizando o conjunto de dados  de 100 mil 
       pedidos entre 2016 e 2018, que permite visualizar status do pedido, preço, pagamento, frete, produto dentre tantos outros atributos relacionados a cada 
       pedido. 
-    - Skills: SQLite3, Query, Análise de Dados 
+    - <b>Skills:</b> SQLite3, Query, Análise de Dados 
   - [Analista de Dados](https://github.com/valferreiraalv/analista_de_dados) [Em Formação]
     - Formação oferecida pela plataforma Alura para desenvolver habilidades e competências necessárias a um analista de dados como: buscar informações em banco 
       de dados relacional e não relacional, realizar análise das informações com as ferramentas necessárias, trabalhar visualizações e relatórios.
-    - Skills: Google Sheets, Power BI, Análise de Dados, SQL, MongoDB
+    - <b>Skills:</b> Google Sheets, Power BI, Análise de Dados, SQL, MongoDB
   
  
 ### Ferramentas Analíticas
