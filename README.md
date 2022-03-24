@@ -31,7 +31,7 @@
     - Este projeto apresenta visualizações e análises referentes ao conjunto de dados com registros de acidentes de trânsito nas rodovias federais do Brasil, e 
       para isso, foram aplicados recursos de Data Science como exploração, visualização de dados e machine learning com intuito de corroborar o tipo de acidente 
       com maior propensão de ocorrer.
-  ➡️ (https://medium.com/@valeria.alvferreira/acidentes-de-tr%C3%A2nsito-nas-rodovias-brasileiras-um-estudo-sobre-o-ano-de-2020-6a17aebdf742)
+  ➡️ [Publicação Medium](https://medium.com/@valeria.alvferreira/acidentes-de-tr%C3%A2nsito-nas-rodovias-brasileiras-um-estudo-sobre-o-ano-de-2020-6a17aebdf742)
   
   - [Rossmann Sales Predict](https://github.com/valferreiraalv/rossmann_sales_predict) [Desenvolvendo]
     - A Rossmann opera mais de 3.000 drogarias em 7 países europeus. Atualmente, os gerentes de loja da Rossmann têm a tarefa de prever suas vendas diárias com 
