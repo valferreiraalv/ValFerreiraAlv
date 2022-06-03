@@ -68,5 +68,5 @@
 - Processamento e análise de dados: Python
 - Desenvolvimento: Git, Scrum, Jenkins e Docker 
 - Visualização de dados: Power B.I., Google Data Studio e Tableau
-- Modelos Machine Learning: Classification
+- Modelos Machine Learning: Classification, Regression
 - Implementação Machine Learning: Heroku, Google Cloud Platform (GCP) 
