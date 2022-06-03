@@ -39,7 +39,11 @@
     ➡️ [Publicação Medium](https://medium.com/@valeria.alvferreira/acidentes-de-tr%C3%A2nsito-nas-rodovias-brasileiras-um-estudo-sobre-o-ano-de-2020-6a17aebdf742)
   
   ### Cursos
-  - [Curso Python Zero ao DS](https://github.com/valferreiraalv/house_rocket) [Completo ✔️]
+  - [Python DS ao Dev](https://github.com/valferreiraalv/python_ds_ao_dev) [Em formação ✔️]
+    - Resolução de exercícios do curso Python DS ao Dev. 
+    - <b>Skills:</b> Método SAPE, Métricas de Negócio, Webscraping, Python Avançado, Banco de Dados, SQL, Desing de ETL, Análise de Dados.
+  
+  - [Python Zero ao DS](https://github.com/valferreiraalv/house_rocket) [Completo ✔️]
     - Resolução de exercícios do curso Python Zero ao DS. 
     - <b>Skills:</b> Python, Pandas, Visualização e Análise de Dados, Streamlit, HerokuApp, Heroku Deployment.
   
