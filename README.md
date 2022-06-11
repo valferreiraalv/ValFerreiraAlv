@@ -29,6 +29,7 @@
   ### Projetos
   
    - [House Rocket Analysis](https://github.com/valferreiraalv/house_rocket_analysis) [Desenvolvendo ✔️]
+  
     - O projeto apresenta insights sobre o conjunto de dados da plataforma House Rocket que tem como modelo de negócio comprar imóveis com baixo preço e vender com preço alto. 
   
   - [Rossmann Sales Predict](https://github.com/valferreiraalv/rossmann_sales_predict) [Completo ✔️]
