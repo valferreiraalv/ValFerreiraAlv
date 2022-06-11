@@ -29,8 +29,9 @@
   ### Projetos
   
    - [House Rocket Analysis](https://github.com/valferreiraalv/house_rocket_analysis) [Desenvolvendo ✔️]
+      - O projeto apresenta insights sobre o conjunto de dados da plataforma House Rocket que tem como modelo de negócio comprar imóveis com baixo preço e vender com preço alto. 
   
-    - O projeto apresenta insights sobre o conjunto de dados da plataforma House Rocket que tem como modelo de negócio comprar imóveis com baixo preço e vender com preço alto. 
+     ➡️ [Streamlit app](https://analysis-house-stream.herokuapp.com/)
   
   - [Rossmann Sales Predict](https://github.com/valferreiraalv/rossmann_sales_predict) [Completo ✔️]
     - A Rossmann opera mais de 3.000 drogarias em 7 países europeus. Atualmente, os gerentes de loja da Rossmann têm a tarefa de prever suas vendas diárias com até     seis semanas de antecedência. Com milhares de gerentes individuais prevendo vendas com base em suas circunstâncias únicas, a precisão dos resultados pode ser bastante variada e isso dificulta a tomada de decisão. Para auxiliar na resolução da questão foi implementado um modelo de predição que permite interação com o time de negócios. 
@@ -51,9 +52,6 @@
     - Resolução de exercícios do curso Python Zero ao DS. 
     - <b>Skills:</b> Python, Pandas, Visualização e Análise de Dados, Streamlit, HerokuApp, Heroku Deployment.
   
-    ➡️ [Streamlit app](https://analysis-house-stream.herokuapp.com/)
-  
-   
   - [Analista de Dados](https://github.com/valferreiraalv/analista_de_dados) [Em Formação]
     - Formação oferecida pela plataforma Alura para desenvolver habilidades e competências necessárias a um analista de dados como: buscar informações em banco 
       de dados relacional e não relacional, realizar análise das informações com as ferramentas necessárias, trabalhar visualizações e relatórios.
