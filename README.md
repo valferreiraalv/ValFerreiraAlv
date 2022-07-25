@@ -39,7 +39,7 @@
   - [Rossmann Sales Predict](https://github.com/valferreiraalv/rossmann_sales_predict) [Completo ✔️]
     - A Rossmann opera mais de 3.000 drogarias em 7 países europeus. Atualmente, os gerentes de loja da Rossmann têm a tarefa de prever suas vendas diárias com até     seis semanas de antecedência. Com milhares de gerentes individuais prevendo vendas com base em suas circunstâncias únicas, a precisão dos resultados pode ser bastante variada e isso dificulta a tomada de decisão. Para auxiliar na resolução da questão foi implementado um modelo de predição que permite interação com o time de negócios. 
   
-  - [Acidentes de Trânsito](https://github.com/valferreiraalv/acidentes-transito) [Completo ✔️]
+  - [Análise de Trânsito](https://github.com/valferreiraalv/acidentes-transito) [Completo ✔️]
     - Este projeto apresenta visualizações e análises referentes ao conjunto de dados com registros de acidentes de trânsito nas rodovias federais do Brasil, e 
       para isso, foram aplicados recursos de Data Science como exploração, visualização de dados e machine learning com intuito de corroborar o tipo de acidente 
       com maior propensão de ocorrer.
