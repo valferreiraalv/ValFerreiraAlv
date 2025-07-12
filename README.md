@@ -48,6 +48,10 @@
     ➡️ [Publicação Medium](https://medium.com/@valeria.alvferreira/acidentes-de-tr%C3%A2nsito-nas-rodovias-brasileiras-um-estudo-sobre-o-ano-de-2020-6a17aebdf742)
   
   ### Cursos
+  - [Power BI (https://github.com/valferreiraalv/power_bi) [Em formação ✔️]
+    - Resolução de atividades do curso de Power BI.
+    - <b>Skills:</b> Análise de Dados, Métricas de Negócio, Power BI.
+      
   - [Python DS ao Dev](https://github.com/valferreiraalv/python_ds_ao_dev) [Em formação ✔️]
     - Resolução de exercícios do curso Python DS ao Dev. 
     - <b>Skills:</b> Método SAPE, Métricas de Negócio, Webscraping, Python Avançado, Banco de Dados, SQL, Desing de ETL, Análise de Dados.
