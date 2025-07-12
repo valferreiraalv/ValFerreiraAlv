@@ -49,7 +49,7 @@
   
   ### Cursos
   - [Power BI](https://github.com/valferreiraalv/power_bi) [Em formação ✔️]
-    - Resolução de atividades do curso de Power BI.
+    - Resolução de atividades do curso de Power BI utilizando dataset da Olist disponibilizado no Kaggle.
     - <b>Skills:</b> Análise de Dados, Métricas de Negócio, Power BI.
       
   - [Python DS ao Dev](https://github.com/valferreiraalv/python_ds_ao_dev) [Em formação ✔️]
