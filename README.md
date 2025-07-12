@@ -48,7 +48,7 @@
     ➡️ [Publicação Medium](https://medium.com/@valeria.alvferreira/acidentes-de-tr%C3%A2nsito-nas-rodovias-brasileiras-um-estudo-sobre-o-ano-de-2020-6a17aebdf742)
   
   ### Cursos
-  - [Power BI (https://github.com/valferreiraalv/power_bi) [Em formação ✔️]
+  - [Power BI](https://github.com/valferreiraalv/power_bi) [Em formação ✔️]
     - Resolução de atividades do curso de Power BI.
     - <b>Skills:</b> Análise de Dados, Métricas de Negócio, Power BI.
       
@@ -70,8 +70,13 @@
       pedidos entre 2016 e 2018, que permite visualizar status do pedido, preço, pagamento, frete, produto dentre tantos outros atributos relacionados a cada 
       pedido. 
     - <b>Skills:</b> SQLite3, Query, Análise de Dados 
-  
- 
+
+  ### Livros
+  - [Projetos de Ciência de Dados em Python - Stephen Klosterman](https://github.com/valferreiraalv/livro_projeto_ds) [Em formação ✔️]
+    
+    - Abordagem de estudo de caso para criação de projetos em ciência de dados bem-sucedidos usando Python, Pandas e Scikit-learn.
+    - <b>Skills:</b> Python, Pandas, Scikit-learn, Projetos de dados, Análise de dados
+     
 ### Ferramentas Analíticas
   
 - Coleta e armazenamento de dados: SQL, MySQL e Big Query
