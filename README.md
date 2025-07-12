@@ -23,6 +23,7 @@
  
  
   - Graduada em Biblioteconomia, Ciência da Informação e da Documentação
+  - Estudando Tecnologia da Informação em Análise de Dados
   - Estudando Ciência de Dados
   - Apaixonada pela área de dados com objetivo de ampliar meu aprendizado para gerar valor aos processos de negócios
   
