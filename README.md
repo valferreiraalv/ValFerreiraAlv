@@ -1,4 +1,4 @@
-## Olá! Eu sou Valéria Ferreira.
+## Valéria Ferreira
 
 <div align="center">
   <a href="https://github.com/ValFerreiraAlv">
