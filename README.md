@@ -1,18 +1,20 @@
 ## Valéria Ferreira
 
-<div align="center">
-  <a href="https://github.com/ValFerreiraAlv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ValFerreiraAlv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValFerreiraAlv&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-<img align="center" alt="Vaf-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Vaf-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Vaf-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-</div>
+### Analista de Dados 
 
-  ##
-  
+<div>
+Sou uma profissional com 10 anos de experiência em Biblioteconomia no setor da educação e 12 anos no mercado farmacêutico. Tenho prática em organização, classificação e estruturação da informação, análise documental e mediação do conhecimento.
+
+Sólidos conhecimentos em gestão recuperação e busca avançada da informação, desenvolvimento de serviços informacionais e controle de registros.
+
+Vivência em estruturação de dados aplicada a contextos educacionais e de distribuição farmacêutica, além de manipulação de planilhas, elaboração de relatórios e avaliação comparativa de informações.
+
+Em transição para a área de dados, desenvolvo projetos de análise exploratória, modelagem de negócios, criação de dashboards no Power BI e aplicação de machine learning, incluindo previsão de vendas e geração de insights estratégicos, com destaque para projetos como Rossmann, E-Hailing e Super Store.
+
+Possuo perfil analítico, pensamento crítico, trabalho em equipe, inovação, foco em soluções, organização e gestão do tempo. 
+
+</div> 
+
 <div> 
   <a href="https://www.linkedin.com/in/valéria-ferreiraalv" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://medium.com/@valeria.alvferreira" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
@@ -21,12 +23,6 @@
  </div> 
 
  
- 
-  - Graduada em Biblioteconomia, Ciência da Informação e da Documentação
-  - Estudando Tecnologia da Informação em Análise de Dados
-  - Estudando Ciência de Dados
-  - Apaixonada pela área de dados com objetivo de ampliar meu aprendizado para gerar valor aos processos de negócios
-  
   ### Projetos
   
    - [Star Jeans](https://github.com/valferreiraalv/star_jeans) [Desenvolvendo ✔️]
