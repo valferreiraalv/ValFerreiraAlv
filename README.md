@@ -15,6 +15,7 @@ Possuo perfil analítico, pensamento crítico, trabalho em equipe, inovação, f
 
 </div> 
 
+### Redes Sociais
 <div> 
   <a href="https://www.linkedin.com/in/valéria-ferreiraalv" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://medium.com/@valeria.alvferreira" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
@@ -25,19 +26,23 @@ Possuo perfil analítico, pensamento crítico, trabalho em equipe, inovação, f
  
   ### Projetos
   - [Rede de Supermercados SuperStore](https://github.com/valferreiraalv/super_store) [ Completo ✔️]
-    - A SuperStore é uma rede de supermercados em todo país. O projeto visa criar indicadores para analisar o comportamento dos clientes e o desempenho das vendas, utilizando análises descritiva, de cohort e RFM, com o objetivo de gerar insights para apoiar decisões estratégicas.  
+    - A SuperStore é uma rede de supermercados em todo país. O projeto visa criar indicadores para analisar o comportamento dos clientes e o desempenho das vendas, utilizando análises descritiva, de cohort e RFM, com o objetivo de gerar insights para apoiar decisões estratégicas.
+    - <b>Skills:</b> Excel, Análise Descritiva, Análise de Cohort, Análise RFM, Insights para tomada de decisão.  
   
 
   - [E-Hailing: uma solução de negócio para mobilidade urbana](https://github.com/valferreiraalv/e-hailing) [ Completo ✔️]
     - Modelo de negócio que oferece serviço de compartilhamento de bicicletas em que um empresário decidiu fazer benchmarck em uma empresa desse ramo para analisar dados sobre esse modelo de negócio existente e entender melhor o retorno e os possíveis riscos dessa atividade.
+    - <b>Skills:</b> Google Sheets, Análise Descritiva, Análise de Dados, Negócios. 
   
   - [Rossmann Sales Predict](https://github.com/valferreiraalv/rossmann_sales_predict) [ Completo ✔️]
-    - A Rossmann opera mais de 3.000 drogarias em 7 países europeus. Atualmente, os gerentes de loja da Rossmann têm a tarefa de prever suas vendas diárias com até     seis semanas de antecedência. Com milhares de gerentes individuais prevendo vendas com base em suas circunstâncias únicas, a precisão dos resultados pode ser bastante variada e isso dificulta a tomada de decisão. Para auxiliar na resolução da questão foi implementado um modelo de predição que permite interação com o time de negócios. 
+    - A Rossmann opera mais de 3.000 drogarias em 7 países europeus. Atualmente, os gerentes de loja da Rossmann têm a tarefa de prever suas vendas diárias com até     seis semanas de antecedência. Com milhares de gerentes individuais prevendo vendas com base em suas circunstâncias únicas, a precisão dos resultados pode ser bastante variada e isso dificulta a tomada de decisão. Para auxiliar na resolução da questão foi implementado um modelo de predição que permite interação com o time de negócios.
+    - <b>Skills:</b> Análise Exploratória de Dados, Pandas, Python, Regression Models, Machine Learning, Deploy. 
   
   - [Análise de Trânsito](https://github.com/valferreiraalv/acidentes-transito) [ Completo ✔️]
     - Este projeto apresenta visualizações e análises referentes ao conjunto de dados com registros de acidentes de trânsito nas rodovias federais do Brasil, e 
       para isso, foram aplicados recursos de Data Science como exploração, visualização de dados e machine learning com intuito de corroborar o tipo de acidente 
       com maior propensão de ocorrer.
+    - <b>Skills:</b> Análise Exploratória de Dados, Pandas, Python, Classification Models, Machine Learning. 
 
 ### Publicações 
 - [Índices e Indicadores de Gestão: instrumentos de melhoria contínua](https://www.linkedin.com/pulse/%C3%ADndices-e-indicadores-de-gest%C3%A3o-instrumentos-melhoria-ferreira--eixbf/?trackingId=k%2F%2BOw1x4RjSso1LTpp8isQ%3D%3D)
@@ -70,9 +75,9 @@ cíclica de aprendizado.
      
 ### Ferramentas Analíticas
   
-- Coleta e armazenamento de dados: SQL, MySQL e Big Query
+- Coleta e armazenamento de dados: SQL, Big Query
 - Processamento e análise de dados: Python
-- Desenvolvimento: Git, Scrum, Jenkins e Docker 
-- Visualização de dados: Power B.I., Google Data Studio e Tableau
+- Desenvolvimento: Git, Scrum 
+- Visualização de dados: Excel, Power B.I., Looker Studio 
 - Modelos Machine Learning: Classification, Regression
 - Implementação Machine Learning: Heroku, Google Cloud Platform (GCP) 
