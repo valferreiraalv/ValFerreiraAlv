@@ -24,54 +24,49 @@ Possuo perfil analítico, pensamento crítico, trabalho em equipe, inovação, f
 
  
   ### Projetos
+  - [Rede de Supermercados SuperStore](https://github.com/valferreiraalv/super_store) [ Completo ✔️]
+    - A SuperStore é uma rede de supermercados em todo país. O projeto visa criar indicadores para analisar o comportamento dos clientes e o desempenho das vendas, utilizando análises descritiva, de cohort e RFM, com o objetivo de gerar insights para apoiar decisões estratégicas.  
   
-   - [Star Jeans](https://github.com/valferreiraalv/star_jeans) [Desenvolvendo ✔️]
-      - A Star Jeans é uma empresa brasileira(fictícia) que tem como modelo de negócio atuar no mercado de E-commerce dos USA. Inicialmente, o produto a ser comercializado é calça jeans masculina e para isso seus sócios precisam conhecer o mercado. O objetivo é manter o custo de operação baixo e escalar a medida que forem conseguindo clientes. No entanto, precisam entender mais sobre esse mercado de moda e definir atributos importantes: melhor preço, tipo de calça, cores e matéria-prima. O problema de negócio será respondido por meio de ferramentas e métodos da ciência de dados com planejamento, mapeamento de métricas, webscraping, python, banco de dados, SQL, design de ETL e análise de dados. 
-      
-   - [House Rocket Analysis](https://github.com/valferreiraalv/house_rocket_analysis) [Desenvolvendo ✔️]
-      - O projeto apresenta insights sobre o conjunto de dados da plataforma House Rocket que tem como modelo de negócio comprar imóveis com baixo preço e vender com preço alto. 
+
+  - [E-Hailing: uma solução de negócio para mobilidade urbana](https://github.com/valferreiraalv/e-hailing) [ Completo ✔️]
+    - Modelo de negócio que oferece serviço de compartilhamento de bicicletas em que um empresário decidiu fazer benchmarck em uma empresa desse ramo para analisar dados sobre esse modelo de negócio existente e entender melhor o retorno e os possíveis riscos dessa atividade.
   
-     ➡️ [Streamlit app](https://analysis-house-stream.herokuapp.com/)
-  
-  - [Rossmann Sales Predict](https://github.com/valferreiraalv/rossmann_sales_predict) [Completo ✔️]
+  - [Rossmann Sales Predict](https://github.com/valferreiraalv/rossmann_sales_predict) [ Completo ✔️]
     - A Rossmann opera mais de 3.000 drogarias em 7 países europeus. Atualmente, os gerentes de loja da Rossmann têm a tarefa de prever suas vendas diárias com até     seis semanas de antecedência. Com milhares de gerentes individuais prevendo vendas com base em suas circunstâncias únicas, a precisão dos resultados pode ser bastante variada e isso dificulta a tomada de decisão. Para auxiliar na resolução da questão foi implementado um modelo de predição que permite interação com o time de negócios. 
   
-  - [Análise de Trânsito](https://github.com/valferreiraalv/acidentes-transito) [Completo ✔️]
+  - [Análise de Trânsito](https://github.com/valferreiraalv/acidentes-transito) [ Completo ✔️]
     - Este projeto apresenta visualizações e análises referentes ao conjunto de dados com registros de acidentes de trânsito nas rodovias federais do Brasil, e 
       para isso, foram aplicados recursos de Data Science como exploração, visualização de dados e machine learning com intuito de corroborar o tipo de acidente 
       com maior propensão de ocorrer.
-  
-    ➡️ [Publicação Medium](https://medium.com/@valeria.alvferreira/acidentes-de-tr%C3%A2nsito-nas-rodovias-brasileiras-um-estudo-sobre-o-ano-de-2020-6a17aebdf742)
-  
-  ### Cursos
-  - [Power BI](https://github.com/valferreiraalv/power_bi) [Em formação ✔️]
+
+### Publicações 
+- [Índices e Indicadores de Gestão: instrumentos de melhoria contínua](https://www.linkedin.com/pulse/%C3%ADndices-e-indicadores-de-gest%C3%A3o-instrumentos-melhoria-ferreira--eixbf/?trackingId=k%2F%2BOw1x4RjSso1LTpp8isQ%3D%3D)
+- [Análise de Cohort: entendendo a retenção de clientes e seu valor para o negócio](https://www.linkedin.com/pulse/an%C3%A1lise-de-cohort-entendendo-reten%C3%A7%C3%A3o-clientes-e-seu-valor-ferreira--u0yyf/?trackingId=SGDMO4I4RGi%2BmC1g7VISPw%3D%3D)
+- [Maturidade Analítica: por que entender esse conceito muda sua forma de trabalhar com dados](https://www.linkedin.com/pulse/maturidade-anal%C3%ADtica-por-que-entender-esse-conceito-muda-ferreira--0myxe/?trackingId=yauPx%2BlcRwuKxMgg97MTOQ%3D%3D)
+- [A atuação do bibliotecário na área de dados: competência transferíveis e relevância no cenário informacional contemporâneo](https://www.linkedin.com/feed/update/urn:li:activity:7403793815720837120/)
+- [Análise de dados e suas aplicações](https://www.linkedin.com/pulse/an%C3%A1lise-de-dados-e-suas-aplica%C3%A7%C3%B5es-val%C3%A9ria-ferreira-/?trackingId=Z%2Bnek7q5QGCptkcHcNRr6Q%3D%3D)
+- [A Cultura Data Driven: um ativo estratégico nas organizações](https://medium.com/@valeria.alvferreira/a-cultura-data-driven-um-ativo-estrat%C3%A9gico-nas-organiza%C3%A7%C3%B5es-7d58489b9c6d)
+
+
+### Cursos
+  - [Power BI](https://github.com/valferreiraalv/power_bi) [ Em formação ✔️]
     - Resolução de atividades do curso de Power BI utilizando dataset da Olist disponibilizado no Kaggle.
     - <b>Skills:</b> Análise de Dados, Métricas de Negócio, Power BI.
-      
-  - [Python DS ao Dev](https://github.com/valferreiraalv/python_ds_ao_dev) [Em formação ✔️]
-    - Resolução de exercícios do curso Python DS ao Dev. 
-    - <b>Skills:</b> Método SAPE, Métricas de Negócio, Webscraping, Python Avançado, Banco de Dados, SQL, Desing de ETL, Análise de Dados.
-  
-  - [Python Zero ao DS](https://github.com/valferreiraalv/house_rocket) [Completo ✔️]
+
+  - [Excel para Análise de Dados](https://github.com/valferreiraalv/super_store) [ Completo ✔️]
+    - Excel para análise de dados aborda fundamentos do Excel através de análise práticas que resolvem problemas de negócio, usando a metodologia 
+cíclica de aprendizado.
+    - <b>Skills:</b> Excel, Análise Descritiva, Análise de Cohort, Análise RFM, Insights para tomada de decisão.
+ 
+  - [Python Zero ao DS](https://github.com/valferreiraalv/house_rocket) [ Completo ✔️]
     - Resolução de exercícios do curso Python Zero ao DS. 
     - <b>Skills:</b> Python, Pandas, Visualização e Análise de Dados, Streamlit, HerokuApp, Heroku Deployment.
-  
-  - [Analista de Dados](https://github.com/valferreiraalv/analista_de_dados) [Em Formação]
-    - Formação oferecida pela plataforma Alura para desenvolver habilidades e competências necessárias a um analista de dados como: buscar informações em banco 
-      de dados relacional e não relacional, realizar análise das informações com as ferramentas necessárias, trabalhar visualizações e relatórios.
-    - <b>Skills:</b> Google Sheets, Power BI, Análise de Dados, SQL, MongoDB
-  
-  - [Data Analytics Olist Store](https://github.com/valferreiraalv/data_analytics_olist_store) [Completo ✔️]
+    
+  - [Data Analytics Olist Store](https://github.com/valferreiraalv/data_analytics_olist_store) [ Completo ✔️]
     - Aplicação de queries por meio da ferramenta SQLite3 para entender a dinâmica das transações da Olist Store utilizando o conjunto de dados  de 100 mil 
       pedidos entre 2016 e 2018, que permite visualizar status do pedido, preço, pagamento, frete, produto dentre tantos outros atributos relacionados a cada 
       pedido. 
     - <b>Skills:</b> SQLite3, Query, Análise de Dados 
-
-  ### Livros
-  - [Projetos de Ciência de Dados em Python - Stephen Klosterman](https://github.com/valferreiraalv/livro_projeto_ds) [Em formação ✔️]
-    
-    - Abordagem de estudo de caso para criação de projetos em ciência de dados bem-sucedidos usando Python, Pandas e Scikit-learn.
-    - <b>Skills:</b> Python, Pandas, Scikit-learn, Projetos de dados, Análise de dados
      
 ### Ferramentas Analíticas
   
